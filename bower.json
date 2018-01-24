@@ -1,0 +1,21 @@
+{
+	"name": "wa-polymer-style",
+	"version": "0.0.3",
+	"authors": [
+		"ju4nit0 (White App)"
+	],
+	"keywords": [
+		"polymer",
+		"style"
+	],
+	"description": "WA personal style",
+	"main": "wa-polymer-style.html",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/ju4nit0/wa-polymer-style.git"
+	},
+	"license": "MIT",
+	"homepage": "https://github.com/ju4nit0/wa-polymer-style",
+	"private": false,
+	"ignore": []
+}
