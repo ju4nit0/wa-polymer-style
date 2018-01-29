@@ -49,6 +49,11 @@
 			app-header paper-icon-button {
 				--paper-icon-button-ink-color: white;
 			}
+			app-toolbar paper-button{
+				padding-top: 8px;
+				padding-bottom: 8px;
+				font-size: 16px;
+			}
 
             /*  CARD        */
 			.card {
@@ -128,6 +133,10 @@
 			paper-button[raised]{
 				background-color: var(--app-primary-color);
 				color: #fff;
+			}
+			paper-button[raised].white{
+				background-color: #fff;
+				color: var(--app-primary-color);
 			}
 			/*	PAPER BADGE	*/
 			paper-badge{
